@@ -1,0 +1,228 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : 拒絕存取路徑 'c:\users\user\downloads\0711017_胡奕晨\0711017_胡奕晨\oop_hw02_template_net2019_202202\oop_hw02_template_net2019_202202\bin\release\selfmotivatedsystem.exe'。
+  myBasicTools.cpp
+  mySystem_ColorPalette.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ColorPalette.cpp(79,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ColorPalette.cpp(80,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ColorPalette.cpp(81,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_GalaxySystem.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  mySystem_MonteCarlo.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_SimpleFileEditor.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_SimplePainter.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(46,36): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(46,33): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(46,30): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(222,34): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(222,29): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(222,22): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(245,46): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_SimplePainter.cpp(245,59): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+  mySystem_SortingVisualization.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  basic_app.cpp
+  main.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  mySystemApp.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  mySystemApp_draw.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(112,37): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(117,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(117,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(133,31): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(133,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(150,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(150,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(151,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(160,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(160,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(179,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(179,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(182,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(182,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(184,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(184,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(201,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(201,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(242,21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(243,21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(244,21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(250,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(251,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(258,35): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(258,25): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(265,29): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(275,49): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(275,55): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(277,44): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(277,28): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(291,18): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(310,34): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(310,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(313,34): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(313,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(316,34): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(316,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(319,34): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(319,25): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(325,13): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(302,26): warning C4101: 'b': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(302,23): warning C4101: 'g': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(302,20): warning C4101: 'r': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(355,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(358,9): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(360,45): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(361,29): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(364,29): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(382,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(385,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(386,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(387,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(387,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(388,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(388,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(397,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(399,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(400,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(401,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(401,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(402,24): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(402,15): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(420,21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(434,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(434,21): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  mySystemApp_HandleEvents.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(72,12): warning C4101: 'value': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(73,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(95,12): warning C4101: 'value': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(96,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(130,12): warning C4101: 'value': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(131,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(164,12): warning C4101: 'value': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(165,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(215,42): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(247,47): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(258,47): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  camera.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\openGLbasic\camera.cpp(57,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  opengl_stuff.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  painter_draw.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  openGLapp.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  openGLapp.events.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  openGLapp_draw.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  openGLapp_init.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  openGLapp_update.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(68,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GalaxySystem.h(75,26): warning C4018: '<': signed/unsigned 不相符
+  正在編譯...
+  basic_tools.cpp
+  grid2D.cpp
+  provider.cpp
+  vector3d.cpp
+  fileReader.cpp
+  imageReader.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  BG_grid2D.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGame.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  painter.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGameApp.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  freeCanvas2D.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  lattice_manager.cpp
+  paintingSystem.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_draw.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_HandleEvents.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  texture.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  textureManager.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  textureManager_read.cpp
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\textureManager\textureManager_read.cpp(46,12): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\Release\SelfMotivatedSystem.exe) 與 Linker 的 OutputFile 屬性值 (C:\Users\User\Downloads\0711017_胡奕晨\0711017_胡奕晨\OOP_HW02_Template_NET2019_202202\OOP_HW02_Template_NET2019_202202\bin\Release\SelfMotivatedSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+LINK : fatal error LNK1104: 無法開啟檔案 '.\bin\Release\SelfMotivatedSystem.exe'

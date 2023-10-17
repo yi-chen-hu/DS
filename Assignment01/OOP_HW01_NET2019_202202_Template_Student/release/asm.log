@@ -1,0 +1,142 @@
+﻿  mySystem_CubicFunction.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_SineCosineFunction.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  basic_app.cpp
+  main.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  mySystem_MonteCarlo.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(181,22): warning C4244: '=': 將 'const _Ty' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(182,22): warning C4244: '=': 將 'const _Ty' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+  mySystem_StudentRecordManager.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystemApp.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystemApp_draw.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(78,10): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(88,11): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(107,29): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(116,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(126,43): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(135,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(144,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(145,38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(151,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(157,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(158,38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(173,26): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(173,41): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(175,9): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(181,60): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystemApp_HandleEvents.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  camera.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  opengl_stuff.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  painter_draw.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  openGLapp.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  openGLapp.events.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  openGLapp_draw.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  openGLapp_init.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  openGLapp_update.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  basic_tools.cpp
+  grid2D.cpp
+  provider.cpp
+  正在編譯...
+  vector3d.cpp
+  fileReader.cpp
+  imageReader.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  BG_grid2D.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGame.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  painter.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGameApp.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  freeCanvas2D.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  lattice_manager.cpp
+  paintingSystem.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_draw.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_HandleEvents.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  texture.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  textureManager.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  textureManager_read.cpp
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\textureManager\textureManager_read.cpp(46,12): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\Release\myFirstSystem.exe) 與 Linker 的 OutputFile 屬性值 (C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\bin\Release\enjoy_programming.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(myFirstSystem) 與 Linker 的 OutputFile 屬性值 (enjoy_programming) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 507 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  asm.vcxproj -> C:\Users\User\Downloads\OOP_hw01_202202\OOP_HW01_NET2019_202202_Template_Student\OOP_HW01_NET2019_202202_Template_Student\Release\myFirstSystem.exe
